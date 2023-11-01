@@ -1,0 +1,7 @@
+pmpm-lock.yaml
+.next
+dist
+node_modules
+public
+cache
+.cache
